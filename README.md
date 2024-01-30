@@ -76,10 +76,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 > Veja o arquivo [package.json](https://github.com/brunochimenes/react-native-ignite-teams/blob/main/package.json).
 
-#### Utilitários
-
-- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
-
 ## 💪 Como contribuir no projeto
 
 1. Faça um **fork** do projeto.
