@@ -74,7 +74,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[Babel Plugin Module Resolver](https://github.com/tleunen/babel-plugin-module-resolver)**
 
-> Veja o arquivo [package.json](https://github.com/brunochimenes/react-native-ignite-imhere/blob/main/package.json).
+> Veja o arquivo [package.json](https://github.com/brunochimenes/react-native-ignite-teams/blob/main/package.json).
 
 #### Utilitários
 
