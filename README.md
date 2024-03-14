@@ -13,13 +13,13 @@ O projeto foi desenvolvido com o objetivo de colocar em prática os conhecimento
 
 ## ⚙️ Funcionalidades
 
-- [x] Cadastro de turma.
+- [x] Cadastro da turma.
   - [x] Cadastro dos nomes de cada jogador.
   - [x] Filtro pelos Time A e Time B.
   - [x] Listagem dos nomes dos jogadores.
   - [x] Exclusão dos nomes de cada jogador.
-- [x] Listagem de turmas.
-- [x] Exclusão de turma.
+- [x] Listagem das turmas.
+- [x] Exclusão da turma.
 
 ## 📱 Demo
 
